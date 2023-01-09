@@ -1,0 +1,2 @@
+# mgwiki
+amwiki
